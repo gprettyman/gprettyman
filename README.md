@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gprettyman -- (Grayson Prettyman)
-- 👀 I have a teaching background, and a love for coding. I have some in my free time, but have never had the time to focus on and develop those skills until now!
+- 👀 I have a teaching background, and a love for coding. I have done some programming in my free time, but have never had the time to focus on and develop those skills until now!
 - 📫 How to reach me -- graysonprettyman@outlook.com
 
 <!---
